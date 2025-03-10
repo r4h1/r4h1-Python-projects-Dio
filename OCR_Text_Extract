@@ -1,0 +1,24 @@
+# Extração de Texto de Imagem com Pytesseract (Português)
+
+Este projeto demonstra como extrair texto de uma imagem em português usando a biblioteca Pytesseract e calcular a precisão da extração.
+
+## Pré-requisitos
+
+- Python 3.6 ou superior
+- Bibliotecas:
+    - Pytesseract
+    - Pillow (PIL)
+    - difflib
+- Tesseract OCR instalado e configurado (com suporte ao idioma português)
+
+## Como usar
+
+1. **Instale as bibliotecas:**
+   ```bash
+   pip install pytesseract Pillow
+
+**Lembre-se de:**
+
+- Substituir `Lista de material.jpeg` pelo nome do arquivo da sua imagem.
+- Substituir `main.py` pelo nome do seu arquivo Python.
+- Ajustar o README com informações mais específicas sobre seu projeto, se necessário.
